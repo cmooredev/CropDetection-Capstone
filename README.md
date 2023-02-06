@@ -1,1 +1,0 @@
-# CropDetection-Capstone
